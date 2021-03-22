@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.5" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2011-08-30T03:48:53Z</time>
+    <bounds maxlat="30.259239" maxlon="120.152168" minlat="30.250056" minlon="120.132669"/>
+  </metadata>
+
+  <wpt lat="30.259239" lon="120.152168">
+    <name>1</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.254899" lon="120.148508">
+    <name>10</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.254560" lon="120.148219">
+    <name>11</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.254187" lon="120.147902">
+    <name>12</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.253832" lon="120.147584">
+    <name>13</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.253170" lon="120.147056">
+    <name>14</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252930" lon="120.146713">
+    <name>15</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252268" lon="120.145925">
+    <name>16</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252078" lon="120.145728">
+    <name>17</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251839" lon="120.145479">
+    <name>18</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251850" lon="120.145482">
+    <name>19</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.258630" lon="120.151648">
+    <name>2</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251969" lon="120.145362">
+    <name>20</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252146" lon="120.145037">
+    <name>21</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251910" lon="120.145105">
+    <name>22</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251614" lon="120.145208">
+    <name>23</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251577" lon="120.145191">
+    <name>24</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251554" lon="120.145131">
+    <name>25</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250992" lon="120.144660">
+    <name>26</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250940" lon="120.144574">
+    <name>27</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250629" lon="120.144205">
+    <name>28</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250607" lon="120.144214">
+    <name>29</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.257982" lon="120.151095">
+    <name>3</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250407" lon="120.143906">
+    <name>30</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250417" lon="120.143684">
+    <name>31</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250404" lon="120.143541">
+    <name>32</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250381" lon="120.143316">
+    <name>33</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250244" lon="120.142543">
+    <name>34</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250056" lon="120.142119">
+    <name>35</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250084" lon="120.141837">
+    <name>36</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250111" lon="120.141075">
+    <name>37</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250141" lon="120.140786">
+    <name>38</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250121" lon="120.140077">
+    <name>39</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.257698" lon="120.150852">
+    <name>4</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250170" lon="120.139450">
+    <name>40</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.250474" lon="120.138833">
+    <name>41</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251021" lon="120.138833">
+    <name>42</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251621" lon="120.138833">
+    <name>43</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251621" lon="120.138833">
+    <name>44</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251909" lon="120.138578">
+    <name>45</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252218" lon="120.138231">
+    <name>46</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252130" lon="120.137475">
+    <name>47</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252005" lon="120.136939">
+    <name>48</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251899" lon="120.136386">
+    <name>49</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.257154" lon="120.150386">
+    <name>5</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251793" lon="120.135834">
+    <name>50</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251677" lon="120.135721">
+    <name>51</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251499" lon="120.135673">
+    <name>52</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251674" lon="120.135376">
+    <name>53</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251863" lon="120.134589">
+    <name>54</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.251942" lon="120.133981">
+    <name>55</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252003" lon="120.133431">
+    <name>56</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252054" lon="120.133215">
+    <name>57</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.252183" lon="120.132669">
+    <name>58</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.256908" lon="120.150176">
+    <name>6</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.256381" lon="120.149726">
+    <name>7</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.255952" lon="120.149377">
+    <name>8</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="30.255584" lon="120.149077">
+    <name>9</name>
+    <cmt>Created by Lily</cmt>
+    <desc>Created by Lily</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+
+</gpx>
